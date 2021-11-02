@@ -87,6 +87,31 @@ Most Homebrew goes into the PSP/Game Folder on your Memory Stick. If it's a plug
 #### Plugins
 #### Recommended Software
 
+## Hardware
+#### Pandora Battery
+The Pandora Battery is used to recover compatible PSPS from a bricked state.
+#### MicroSD Card Adapters
+
+**All PSPS except PSP Go and Street**
+
+
+As genuine / new / working Memory Stick Pros with large storage are getting expensive to buy it's recommended to use a MicroSD Solution.  
+    
+    The adapter to get is the single slotted adapter as the dual slot adapter will give you grief, be slow and likely cause corruption on your PSP.  
+      
+      The FunTurbo Adapter is recommended.
+      
+      Note if you have a lot of games on your PSP, it will take some time to load the menu. 
+      
+ **PSP Go and Street**
+(Insert Solution here)
+
+    
+#### PSP-1000 OLED Screen
+
+#### Recommended Replacement Parts
+Uncovered for now: Likely will have parts such as cases, screens, batteries, 
+
 
 #### Glossary
 * XMB - The PSP Menu System known as the Cross Menu Bar.
