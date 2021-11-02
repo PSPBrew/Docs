@@ -18,7 +18,7 @@
 * Pandora Battery
 * 
 * MicroSD Card Adapters
-* PSP-1000 OLED Screen
+* PSP-1000 IPS / LCD Screen
 
 * Recommended Replacement Parts
 * 
@@ -107,7 +107,7 @@ As genuine / new / working Memory Stick Pros with large storage are getting expe
 (Insert Solution here)
 
     
-#### PSP-1000 OLED Screen
+#### PSP-1000 IPS / LCD Screen
 
 #### Recommended Replacement Parts
 Uncovered for now: Likely will have parts such as cases, screens, batteries, 
